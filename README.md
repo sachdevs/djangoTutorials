@@ -1,2 +1,2 @@
 # djangoTutorials
-Just learning django
+Just learning django via django documentation
